@@ -1,6 +1,8 @@
 // Shoot Them Up Game, All Rights Reserved.
 
 #include "Player/STUPlayerCharacter.h"
+
+#include "STURifleWeapon.h"
 #include "Camera/CameraComponent.h"
 #include "Components/InputComponent.h"
 #include "GameFramework/SpringArmComponent.h"

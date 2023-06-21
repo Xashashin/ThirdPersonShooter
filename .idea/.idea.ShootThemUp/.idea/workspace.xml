@@ -5,7 +5,21 @@
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de3ca73-821c-441a-9b71-c520020e5a16" name="Changes" comment="" />
+    <list default="true" id="4de3ca73-821c-441a-9b71-c520020e5a16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AI/BP_STUAIController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/BP_STUAIController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BP_STUGameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_STUGameModeBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ExternalContent/Environment/Materials/M_FFA_Wall_05.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ExternalContent/Environment/Materials/M_FFA_Wall_05.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/TestLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/TestLevel.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Pickups/BP_STUAmmoPickup.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Pickups/BP_STUAmmoPickup.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Pickups/BP_STUHealthPickup.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Pickups/BP_STUHealthPickup.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player/BP_STUPlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/BP_STUPlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapon/BP_STURifleWeapon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Weapon/BP_STURifleWeapon.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ShootThemUp/Private/Player/STUPlayerCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ShootThemUp/Private/Player/STUPlayerCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ShootThemUp/Public/Weapon/STURifleWeapon.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ShootThemUp/Public/Weapon/STURifleWeapon.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\DELL\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\DELL\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\DELL\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\DELL\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\DELL\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\DELL\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.ShootThemUp">
     <configuration name="ShootThemUp" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -357,6 +371,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674729195082</updated>
       <workItem from="1674729199726" duration="595000" />
+      <workItem from="1687372174646" duration="732000" />
+      <workItem from="1687373121833" duration="380000" />
     </task>
     <servers />
   </component>

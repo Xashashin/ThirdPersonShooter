@@ -22,13 +22,13 @@ public:
     virtual void StartFire() override;
     virtual void StopFire() override;
     virtual void Zoom(bool Enabled) override;
-
+    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Weapon")
+    float BulletSpread = 1.5f;
 protected:
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Weapon")
     float TimeBetweenShots = 0.1f;
 
-    UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Weapon")
-    float BulletSpread = 1.5f;
+   
 
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Weapon")
     float DamageAmount = 10.0f;
